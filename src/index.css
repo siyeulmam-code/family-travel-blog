@@ -3,22 +3,22 @@
 :root {
   /* Color Palette */
   --color-warm-white: #ffffff;
-  --color-soft-beige: #faf8f5;
-  --color-beige-dark: #f0ebe1;
-  --color-text-main: #4a3f35;
-  --color-text-sub: #8b7e74;
-  --color-text-light: #c0b6ac;
-  --color-accent: #d2a679;
-  --color-accent-hover: #c49667;
-  --color-border: #e8e3dc;
+  --color-soft-beige: #f2f6f3;
+  --color-beige-dark: #e1eae4;
+  --color-text-main: #2b3a30;
+  --color-text-sub: #5c6e63;
+  --color-text-light: #92a69a;
+  --color-accent: #4e8264;
+  --color-accent-hover: #3f6d52;
+  --color-border: #dae3dd;
 
   /* Typography */
   --font-family: 'Pretendard', -apple-system, BlinkMacSystemFont, system-ui, Roboto, 'Helvetica Neue', 'Segoe UI', 'Apple SD Gothic Neo', 'Noto Sans KR', 'Malgun Gothic', 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', sans-serif;
   
   /* Shadows */
-  --shadow-sm: 0 2px 4px rgba(74, 63, 53, 0.05);
-  --shadow-md: 0 4px 12px rgba(74, 63, 53, 0.08);
-  --shadow-lg: 0 12px 24px rgba(74, 63, 53, 0.12);
+  --shadow-sm: 0 2px 4px rgba(43, 58, 48, 0.05);
+  --shadow-md: 0 4px 12px rgba(43, 58, 48, 0.08);
+  --shadow-lg: 0 12px 24px rgba(43, 58, 48, 0.12);
 
   /* Border Radius */
   --radius-md: 12px;
