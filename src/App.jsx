@@ -7,6 +7,16 @@ import './App.css';
 
 const travelData = [
   {
+    id: 5,
+    year: '2025',
+    month: '5',
+    place: '제주도',
+    members: ['아빠', '엄마'],
+    title: '꽃 아치 아래서, 제주 봄날의 데이트',
+    description: '푸른 하늘과 맑은 호수가 보이는 예쁜 장미 아치 아래서 남긴 엄마 아빠의 다정한 순간. 따스한 햇살만큼 행복했던 시간이었습니다.',
+    imageUrl: '/jeju_2025.jpg'
+  },
+  {
     id: 1,
     year: '2025',
     month: '1',
