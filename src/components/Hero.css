@@ -71,12 +71,19 @@
 
 @media (max-width: 768px) {
   .hero {
-    height: 50vh;
+    height: 45vh;
+    min-height: 320px;
+    margin: 16px 16px 30px 16px;
+    border-radius: var(--radius-lg);
   }
   .hero-title {
-    font-size: 2rem;
+    font-size: 1.8rem;
+    margin-bottom: 12px;
+    word-break: keep-all;
   }
   .hero-subtitle {
-    font-size: 1rem;
+    font-size: 0.95rem;
+    line-height: 1.5;
+    word-break: keep-all;
   }
 }

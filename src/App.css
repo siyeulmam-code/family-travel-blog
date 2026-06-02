@@ -67,4 +67,14 @@
     grid-template-columns: 1fr;
     gap: 24px;
   }
+  .view-toggle {
+    gap: 10px;
+    margin-bottom: 30px;
+  }
+  .toggle-btn {
+    padding: 8px 16px;
+    font-size: 0.9rem;
+    flex-grow: 1;
+    text-align: center;
+  }
 }

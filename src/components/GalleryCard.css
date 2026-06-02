@@ -85,3 +85,16 @@
   -webkit-box-orient: vertical;
   overflow: hidden;
 }
+
+@media (max-width: 768px) {
+  .gallery-content {
+    padding: 16px;
+  }
+  .gallery-title {
+    font-size: 1.1rem;
+    margin-bottom: 8px;
+  }
+  .gallery-description {
+    font-size: 0.85rem;
+  }
+}

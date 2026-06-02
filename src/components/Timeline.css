@@ -102,3 +102,28 @@
     transform: translateX(0);
   }
 }
+
+@media (max-width: 768px) {
+  .timeline-container {
+    padding: 20px 0;
+  }
+  .timeline-line {
+    left: 15px;
+  }
+  .timeline-dot {
+    left: 10px;
+  }
+  .timeline-item {
+    padding-left: 36px;
+    margin-bottom: 30px;
+  }
+  .timeline-content {
+    padding: 16px;
+  }
+  .timeline-title {
+    font-size: 1.1rem;
+  }
+  .timeline-description {
+    font-size: 0.85rem;
+  }
+}
